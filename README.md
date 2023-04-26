@@ -8,7 +8,9 @@
 
 ## Reference
 
-arXiv:2201.02075 [hep-ph]
+iNSPIRE-HEP: [2005440][JAM22polJets.inspire]
+
+[JAM22polJets.inspire]: https://inspirehep.net/literature/2005440 'iNSPIRE-HEP'
 
 ## Abstract
 
